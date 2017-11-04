@@ -1,3 +1,5 @@
+#!/usr/bin/env python 3.6
+#coded by gaspy
 import random
 
 
